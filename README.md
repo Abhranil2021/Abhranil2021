@@ -1,7 +1,7 @@
 <h1 align="center"> Hello Folks! I am Abhranil Das </h1>
 
-<h3 align="center"> Graduate from IIT Guwahati with B.Tech in Electronics and Electrical Engineering </h3> 
-<h3 align="center"> Interested in and passionate about Machine Learning and Artificial Intelligence, especially about NLP, LLMs and GenAI </h3>
+<h3 align="left"> Graduate from IIT Guwahati with B.Tech in Electronics and Electrical Engineering </h3> 
+<h3 align="left"> Interested in and passionate about Machine Learning and Artificial Intelligence, especially about NLP, LLMs and GenAI </h3>
 
 
 ### Connect With Me
